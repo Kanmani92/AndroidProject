@@ -1,3 +1,3 @@
 AndroidProject
 ==============
-This is my readme file.
+Kanmani Muthusamy did the first screen of this app.
