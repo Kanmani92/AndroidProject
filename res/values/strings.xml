@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">AndroidProject</string>
+    <string name="app_name">Assignment3</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+    <string name="Button">>></string>
+    <string name="intro">7 Wonders in The World!</string>
+    <string name="intro1">*Colosseum,Italy\t\t\t*Great Wall of China,China\n
+   *Petra,Jordan\t\t\t\t*Christ The Redeemer,Brazil\t*Taj Mahal,India\n*Machu Picchu,Peru\n*Chichen Itza,Mexico</string>
+    <string name="todo">TODO</string>
 </resources>
