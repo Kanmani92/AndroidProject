@@ -9,4 +9,7 @@
     <string name="intro1">*Colosseum,Italy\t\t\t*Great Wall of China,China\n
    *Petra,Jordan\t\t\t\t*Christ The Redeemer,Brazil\t*Taj Mahal,India\n*Machu Picchu,Peru\n*Chichen Itza,Mexico</string>
     <string name="todo">TODO</string>
+    <string name="title_activity_teague_second_screen">TeagueSecondScreen</string>
+    <string name="firstOrLast">It is Conor Wells again!</string>
+
 </resources>
