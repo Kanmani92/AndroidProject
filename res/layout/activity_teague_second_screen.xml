@@ -15,9 +15,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="Next Page"
+        android:text="@string/thirdPage"
         android:layout_gravity="end"
-        android:onClick="" />
+        android:onClick="thirdScreen" />
 
     <ImageView
         android:id="@+id/imageView1"

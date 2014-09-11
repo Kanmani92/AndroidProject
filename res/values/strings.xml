@@ -11,5 +11,8 @@
     <string name="todo">TODO</string>
     <string name="title_activity_teague_second_screen">TeagueSecondScreen</string>
     <string name="firstOrLast">It is Conor Wells again!</string>
+    <string name="thirdPage">Wait there is more!!!</string>
+    <string name="title_activity_vander_vaart_screen3">VanderVaartScreen3</string>
+    <string name="pickADate">Pick a Date:</string>
 
 </resources>

@@ -1,37 +1,22 @@
 package edu.drake.androidproject;
 
-
 import android.app.Activity;
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
 
+public class VanderVaartScreen3 extends Activity {
 
-public class MainActivity extends Activity {
-	//Fire to second screen
-	public void nextScreen(View view){
-		Intent intent = new Intent(this, TeagueSecondScreen.class);
-		startActivity(intent);
-	}
-	
-	public void thirdScreen(View view){
-		Intent screen3_intent = new Intent(this, VanderVaartScreen3.class);
-		startActivity(screen3_intent);
-	}
-	
-	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_main);
+		setContentView(R.layout.activity_vander_vaart_screen3);
 	}
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the menu; this adds items to the action bar if it is present.
-		getMenuInflater().inflate(R.menu.main, menu);
+		getMenuInflater().inflate(R.menu.vander_vaart_screen3, menu);
 		return true;
 	}
 
